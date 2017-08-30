@@ -4,7 +4,7 @@
 ## 爬虫系统说明
 ```
 1.django -> 抓取数据展示
-2.ElastciSearch -> 数据查询和存储
+2.elasticsearch-rtf-> 数据查询和存储
 3.Redis -> 数据统计
 ```
 ## 截图
