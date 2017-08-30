@@ -1,5 +1,4 @@
 # DsrSearch
-===========================
 基于 Django+ElasticSearch+Redis+Scrapy 的爬虫平台
 ****
 ##爬虫系统说明
