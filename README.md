@@ -8,4 +8,4 @@
 3.Redis -> 数据统计
 ```
 ## 截图
-![](https://github.com/xueleilei120/DsrSearch/raw/master/static/images/jietu.png)
+![](https://github.com/xueleilei120/DsrSearch/raw/master/static/images/jietu2.png)
